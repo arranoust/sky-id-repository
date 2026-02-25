@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Samehadaku",
+    "internalName": "Samehadaku",
+    "url": "https://example.com/repo/MyProvider.sky",
+    "icon": "https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-192x192.jpg",
+    "version": 1,
+    "description": "Samehadaku Provider",
+    "authors": ["arranoust"],
+    "language": "id",
+    "types": ["Anime"]
+  }
+]

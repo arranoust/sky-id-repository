@@ -1,0 +1,9 @@
+{
+  "name": "Sky ID",
+  "id": "com.arranoust.mirai",
+  "description": "SkyStream plugins repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/arranoust/sky-id-repository/refs/heads/main/plugins/plugins.json"
+  ]
+}
