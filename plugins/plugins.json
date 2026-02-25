@@ -2,7 +2,7 @@
   {
     "name": "Samehadaku",
     "internalName": "Samehadaku",
-    "url": "https://example.com/repo/MyProvider.sky",
+    "url": "https://raw.githubusercontent.com/arranoust/sky-id-repository/refs/heads/main/plugins/samehadaku.sky",
     "icon": "https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-192x192.jpg",
     "version": 1,
     "description": "Samehadaku Provider",
